@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## How to install
+- First config Database access on .env file
+- Change app url on .env file.
+- Now visit app root url (your domain).
+- Now follow instruction on web app page.
+
+Contact us to www.msurubel.com or msurubel1@gmail.com if you need any assitance.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
